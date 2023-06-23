@@ -24,7 +24,6 @@ The accuracy of the model will be assessed based on its ability to correctly cla
 
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Installation
