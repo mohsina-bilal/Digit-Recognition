@@ -92,8 +92,6 @@ print("Accuracy:", accuracy)
 
 You can modify and expand upon these instructions based on the specific requirements and functionalities of your project. Include any additional code snippets or explanations to guide users on how to utilize your project effectively.
 
-```
-
 Feel free to customize and add more details to the code snippets and instructions based on the specific functionalities of your project.
 
 ## License
