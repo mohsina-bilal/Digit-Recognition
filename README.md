@@ -1,9 +1,6 @@
 # Digit Recognition
 
 Sklearn Logistic Regression for Digit Recognition
-
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-
 This project utilizes Scikit-learn's logistic regression algorithm to recognize digits from the Scikit-learn digits dataset.
 
 ## Description
